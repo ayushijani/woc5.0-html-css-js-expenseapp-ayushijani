@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background: black;
+}
+
+.title {
+    display: block;
+    margin-left: 16px;
+    margin-right: 16px;
+    background: linear-gradient(45deg, violet, aqua, pink);
+    height: 60px;
+    border: none;
+    border-radius: 20px;
+}
+
+h1 {
+    margin-top: 16px;
+    display: block;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.list {
+    display: block;
+    background: whitesmoke;
+    margin-left: 90px;
+    width: 400px;
+    height: 400px;
+    border: none;
+    border-radius: 30px;
+}
+
+
+ul{
+    list-style-type: none;
+    font-size: 20px;
+}
+
+h3 {
+    display: block;
+    background: linear-gradient(45deg, violet, aqua, pink);
+    border: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Comic Sans MS;
+}
+
+.btn1 {
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.btn2 {
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.fa-solid fa-pen-to-square {
+    color: violet;
+}
